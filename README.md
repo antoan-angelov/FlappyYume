@@ -7,7 +7,9 @@ Then I decided to use it for my coursework as well, adding tweaks to it to impro
 
 It was developed on Android Studio 1.0, targeting Android versions 14 (Ice Cream Sandwich) and up.
 
-Video demo:
+## Demo
+
+Video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IJhVJvP-7Ss
 " target="_blank"><img src="http://img.youtube.com/vi/IJhVJvP-7Ss/0.jpg" 
