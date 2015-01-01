@@ -2,7 +2,7 @@ FlappyYume
 ==========
 Coursework project for Android course @FMI.
 
-The game was initially developed for the HackBulgaria Android course.
+The game was initially developed for the [HackBulgaria Android course](https://hackbulgaria.com).
 Then I decided to use it for my coursework as well, adding tweaks to it to improve it.
 
 It was developed on Android Studio 1.0, targeting Android versions 14 (Ice Cream Sandwich) and up.
