@@ -12,7 +12,7 @@ public class PatternManager {
         public final static float INVALID_PATTERN = 2;
 
         public static final Pattern PATTERN_REST = new Pattern(new float[] {0.3f, 0.4f, - 0.4f, 0.3f, 0.5f});
-        public static final Pattern PATTERN_MEDIUM = new Pattern(new float[] {-0.65f, -0.6f, 0.5f, -0.4f, 0.5f, -0.65f, 0.6f, -0.4f});
+        public static final Pattern PATTERN_MEDIUM = new Pattern(new float[] {-0.55f, -0.50f, 0.45f, -0.4f, 0.5f, -0.55f, 0.5f, -0.4f});
 
         private final float[] mPattern;
         private int mIndex;

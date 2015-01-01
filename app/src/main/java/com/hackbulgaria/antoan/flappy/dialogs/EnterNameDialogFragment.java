@@ -56,6 +56,10 @@ public class EnterNameDialogFragment extends DialogFragment implements IScoreIns
     public void onDismiss(DialogInterface dialog) {
         super.onDismiss(dialog);
 
+        if(getActivity() == null) {
+            return;
+        }
+
         if (android.os.Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
             getActivity().getWindow().getDecorView().setSystemUiVisibility(
                     View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY
